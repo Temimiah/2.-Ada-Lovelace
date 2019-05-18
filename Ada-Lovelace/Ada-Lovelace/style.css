@@ -1,0 +1,184 @@
+
+body{
+font-family:Helvetica, Arial, Sans-Serif;
+}
+
+.my-picture img{
+ display: inline;	
+ height: 60px;
+ margin-right:25px;
+ padding-right: 400px; 
+ padding-bottom:0px;
+}
+
+
+.my-picture {
+font-size:18px;
+}
+
+h1 {
+	display: inline-block;
+	margin-top: 5px;
+	height: 60px;
+    padding-bottom:0px;
+}
+
+.title {
+	display: inline-block;
+	padding: 15px 30px 0px;
+	border: 0px solid #e8e8ea;
+	margin: -55px;
+	vertical-align: top;
+}
+
+header {
+  background-color: #fdfdf1;
+  text-align: center;
+  border-bottom: 1px solid #b5b3b3;
+  padding-top: 14px;
+  height: 70px;
+  margin: 0px;
+  display: block;
+}
+
+.sidebar {
+  background-color: #fdfdf3;
+  width: 30%;
+  min-width: 300px;
+  max-width: 320px;
+  display: inline-block;
+  padding: 25px 30px 20px;
+  border: 1px solid #e8e8ea;
+  margin-top: 50px;
+  margin-left: 20px;
+  border-radius: 6px;
+  box-shadow: 0 1px 1px 1px rgba(237, 235, 232, 0.4);
+}/* 0 1px 1px 1px = color, size, blur and offset respectively */
+
+
+/*
+.social-media {
+  list-style: none;
+  margin-left: 10px;
+  padding-left: 20px;
+}
+
+.social-media li {
+border-bottom: 1px solid #b0afc0;	
+padding: 12px;
+width: 100px;
+}
+
+.social-media li a {
+ color: #4c4066;
+ text-decoration: none;
+ text-shadow: 1px 0px #ffffff;
+ border-left: 7px solid #fdcc38; 		yellow border that appeared next to facebook
+ padding-left: 10px; 					push left between facebook from yellow border
+}
+
+.social-media li a:hover {				the yellow color changes
+  border-left-color: #a26cd2;			or border-color. border left color only makes the border more specific*/
+}*/
+
+.sidebar ul {
+  list-style: none;
+  margin-left: 10px;
+  padding-left: 20px;
+}
+
+.sidebar li {
+border-bottom: 1px solid #b0afc0;	
+padding: 12px;
+width: 200px;
+list-style: none;
+}
+
+.sidebar li a {
+ color: #4c4066;
+ text-decoration: none;
+ text-shadow: 1px 0px #ffffff;
+ border-left: 7px solid #fdcc38; 		/*yellow border that appeared next to facebook*/
+ padding-left: 10px; 					/*push left between facebook from yellow border*/
+}
+
+.sidebar strong {					/*for the strong element within the sidebar - me on..*/
+  margin-left: 36px;				/*move left */
+  color: #4c4066;					/*change its color*/
+  font-size: 19px;					/*and its size*/
+}
+
+.main {
+  display: inline-block;
+  width: 55%;
+  margin-left: 70px;
+  padding-top: 60px;
+  vertical-align: top;
+}
+
+.highlight {
+  color: #4c61a9;
+}
+
+blockquote {
+  border: 1px solid #E7E6E6;
+  padding: 20px 27px;
+  border-radius: 6px;
+  background-color: #FDFDFC;
+  color: #4C4066;  
+  margin-top: 40px;
+  margin-bottom: 40px; 
+  font-style: italic;
+}
+
+.poem {
+  font-style: italic;
+  color: #4C4066;
+}
+.google-doodle {
+  text-align: center;
+  margin-top: 90px;
+  margin-bottom: 70px;
+}  
+
+a {
+  color: #7a3cb7;
+}
+
+a:hover {
+  color: #a26cd2;
+}
+footer {
+  height: 60px;
+  padding-top: 20px;
+  padding-left: 30px;
+  background-color: #1f1430;
+  border-top: 1px solid #eeeeee;
+  margin-top: 20px;
+}
+footer p {
+  color: #b0afc0;
+  font-size: 14px;
+}
+footer a {
+  color: #b0afc0;
+}
+
+
+ 
+ 
+
+
+
+  
+
+
+  
+  
+   
+  
+  
+  
+  
+  
+
